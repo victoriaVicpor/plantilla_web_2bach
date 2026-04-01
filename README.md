@@ -1,7 +1,6 @@
 # Proyecto Web 2º Bachillerato dentro tengo estos ficheros
 plantilla-web-2bach/
 
-│
 ├── index.html
 
 ├── style.css
